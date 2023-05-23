@@ -31,6 +31,12 @@ const songs = [
         displayName: 'Making My Way',
         cover: 'assets/artworks-iu2V4IDbvbr4-0-t500x500.jpg',
         artist: 'Sơn Tùng M-T-P',
+    },
+    {
+        path: 'assets/SheSaid-WEANNaomi-5833951.mp3',
+        displayName: 'She said',
+        cover: 'assets/1545978454096_640.jpg',
+        artist: 'WEAN',
     }
 ];
 
