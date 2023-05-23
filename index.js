@@ -14,22 +14,23 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/1.mp3',
-        displayName: 'The Charmer\'s Call',
-        cover: 'assets/1.jpg',
-        artist: 'Hanu Dixit',
+        path: 'assets/NhuAnhMo-PC-6237712.mp3',
+        displayName: 'Như Anh Mơ',
+        // displayName: 'The Charmer\'s Call',
+        cover: 'assets/1584345439527_300.jpg',
+        artist: 'PC',
     },
     {
-        path: 'assets/2.mp3',
-        displayName: 'You Will Never See Me Coming',
-        cover: 'assets/2.jpg',
-        artist: 'NEFFEX',
+        path: 'assets/YeuNguoiCoUocMo-buitruonglinh-8396692.mp3',
+        displayName: 'Yêu Người Có Ước Mơ',
+        cover: 'assets/1671685450435_640.jpg',
+        artist: 'buitruonglinh',
     },
     {
-        path: 'assets/3.mp3',
-        displayName: 'Intellect',
-        cover: 'assets/3.jpg',
-        artist: 'Yung Logos',
+        path: 'assets/making-my-way-son-tung-m-tp.mp3',
+        displayName: 'Making My Way',
+        cover: 'assets/artworks-iu2V4IDbvbr4-0-t500x500.jpg',
+        artist: 'Sơn Tùng M-T-P',
     }
 ];
 
